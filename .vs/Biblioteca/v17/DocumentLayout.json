@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\views\\libro\\listalibros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:views\\libro\\listalibros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\views\\libro\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:views\\libro\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\migrations\\20241109063653_cambio campo sipnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:migrations\\20241109063653_cambio campo sipnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\migrations\\20241109002709_migracion inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:migrations\\20241109002709_migracion inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|c:\\users\\viris\\source\\repos\\biblioteca\\biblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC59940F-70C1-4E78-B208-346983907C95}|Biblioteca.csproj|solutionrelative:biblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:33:56.248Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Models\\Libro.cs",
+              "RelativeToolTip": "Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:56:53.454Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "Controllers\\LibroController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA7wEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:02:37.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDBContextModelSnapshot.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:27:29.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T06:54:54.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:28:23.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaLibros.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Views\\Libro\\ListaLibros.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\ListaLibros.cshtml",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Views\\Libro\\ListaLibros.cshtml",
+              "RelativeToolTip": "Views\\Libro\\ListaLibros.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T00:52:53.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:45:45.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Views\\Libro\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Views\\Libro\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Libro\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T18:17:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T00:33:55.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:51:08.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241109002709_Migracion Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Migrations\\20241109002709_Migracion Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241109002709_Migracion Inicial.cs",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Migrations\\20241109002709_Migracion Inicial.cs",
+              "RelativeToolTip": "Migrations\\20241109002709_Migracion Inicial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:27:09.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241109063653_Cambio campo Sipnosis.cs",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Migrations\\20241109063653_Cambio campo Sipnosis.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241109063653_Cambio campo Sipnosis.cs",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Migrations\\20241109063653_Cambio campo Sipnosis.cs",
+              "RelativeToolTip": "Migrations\\20241109063653_Cambio campo Sipnosis.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:36:53.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T23:40:58.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T06:55:37.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T04:39:59.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T06:55:28.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Biblioteca.csproj",
+              "DocumentMoniker": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Biblioteca.csproj",
+              "RelativeDocumentMoniker": "Biblioteca.csproj",
+              "ToolTip": "C:\\Users\\Viris\\source\\repos\\Biblioteca\\Biblioteca.csproj",
+              "RelativeToolTip": "Biblioteca.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T06:43:18.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

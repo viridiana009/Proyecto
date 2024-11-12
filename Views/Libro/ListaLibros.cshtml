@@ -1,0 +1,77 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Biblioteca.Models.Libro>;
+<div>
+ <div class="col-sm-8 offset-sm-2">
+     <h1>Lista de Libros</h1>
+     <br />
+        <form asp-controller="Libro" asp-action="ListaLibros" method="post" class="row g-3">
+            <div class="col-10">
+            <label for="inputPassword2" class="visually-hidden">Password</label>
+            <input type="text" class="form-control" name="buscar" placeholder="Ingresa El Titulo o Autor de un Libro">
+        </div>
+        <div class="col-auto">
+             <button type="submit" class="btn btn-outline-info" >Buscar</button>
+        </div>
+    </form>
+    <br />
+     <a asp-controller="Libro" asp-action="Nuevo" class="btn btn-primary mb-3">Nuevo</a>
+        <table class="table">
+        <thead>
+            <tr>
+                <th style="visibility:collapse; display:none;">Id</th>
+                <th scope="col">Titulo</th>
+                <th scope="col">Autor</th>
+                <th scope="col">Genero</th>
+                <th scope="col">Fecha de Publicación</th>
+                <th scope="col">Sinopsis</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+            <tbody class="table-group-divider">
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td style="visibility:collapse; display:none;">@item.IdLibro</td>
+                        <td>@item.Titulo</td>
+                        <td>@item.Autor</td>
+                        <td>@item.Genero</td>
+                        <td>@item.Fechapublicacion</td>
+                        <td>@item.Sinopsis</td>
+                        <td>
+                            <a asp-controller="Libro"
+                             asp-action="Editar"
+                             asp-route-id="@item.IdLibro"
+                        class="btn btn-primary mb-1">Editar</a>
+
+                            <a asp-controller="Libro"
+                               asp-action="Eliminar"
+                               asp-route-id="@item.IdLibro"
+                               onclick="return Verificar()"
+                               class="btn btn-success mb-1">Eliminar
+                           </a>
+                    
+                    </td>
+                    </tr>
+                }
+            </tbody>
+     </table>
+        
+ </div>
+  
+</div>
+
+
+@section Scripts{
+    <script>
+        function Verificar() {
+            return confirm("Esta Seguro que desea eliminar el registro?")
+        }
+    </script>
+
+}
+   
+
